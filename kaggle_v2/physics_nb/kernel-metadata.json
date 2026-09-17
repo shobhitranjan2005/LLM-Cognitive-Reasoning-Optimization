@@ -1,0 +1,18 @@
+{
+  "id": "shobhitranjan2005/loom-physics-eval",
+  "title": "LOOM physics eval",
+  "code_file": "physics_eval.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [
+    "shobhitranjan2005/loom-a-v1-control-adapter",
+    "shobhitranjan2005/loom-eval-bundle",
+    "shobhitranjan2005/loom-train",
+    "shobhitranjan2005/deep-reason"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

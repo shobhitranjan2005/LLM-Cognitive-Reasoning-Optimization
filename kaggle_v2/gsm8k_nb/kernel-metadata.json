@@ -1,0 +1,15 @@
+{
+  "id": "shobhitranjan2005/loom-gsm8k-compare",
+  "title": "LOOM GSM8K compare",
+  "code_file": "gsm8k_compare.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [
+    "shobhitranjan2005/loom-a-v1-control-adapter"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}
