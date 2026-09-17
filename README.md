@@ -2,8 +2,6 @@
 
 # 🧠 LLM Cognitive Reasoning Optimization
 
-### Teaching Small Language Models to *Think* Before They Answer
-
 **Fine-tuning DeepSeek-R1-Distill-Qwen-7B with LoRA to improve structured reasoning on physics problems — while fighting memorisation on tiny datasets.**
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
@@ -153,3 +151,4 @@ This project is for research and educational purposes.
 *If this project helped you, consider giving it a ⭐!*
 
 </div>
+
